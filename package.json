@@ -1,0 +1,10 @@
+{
+  "name": "prod",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-api-cloudfront": "^0.9.4",
+    "serverless-s3-sync": "^1.6.1"
+  }
+}
