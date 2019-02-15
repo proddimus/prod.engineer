@@ -5,7 +5,7 @@
 # uses to deploy your code to your provider of choice
 
 # The `service` block is the name of the service
-service: prod
+service: prod-engineering-site
 
 custom:
   siteName: ${file(./config-${self:provider.stage}.yaml):url}
